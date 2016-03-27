@@ -1,0 +1,11 @@
+menambahkan file ke repo lokal
+git add .
+git add nama_file.ekstensi
+
+git commit -m "pesannya apa"
+
+untuk upload
+git push origin master:team
+
+pull/refresh repo lokal
+git pull  origin team
